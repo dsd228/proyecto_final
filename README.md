@@ -1,4 +1,4 @@
-# Mi nuevo proyecto.
+# proyecto_final.
 
 Proyecto de curso de creación de IA
 Predicción Salarial
