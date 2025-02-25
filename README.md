@@ -1,9 +1,8 @@
-# proyecto_final.
+# Project Title
 
-Proyecto de curso de creación de IA
-Predicción Salarial
+Final project for the Building AI course
 
-##Resumen
+## Summary
 
 Este proyecto predice aumentos salariales en función de las horas de estudio de Python. Se basa en un modelo de regresión entrenado con datos simulados.  
 Proyecto de curso de creación de IA.
