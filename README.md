@@ -1,4 +1,5 @@
 # Mi nuevo proyecto.
+
 Proyecto de curso de creación de IA
 Predicción Salarial
 
@@ -11,15 +12,15 @@ Proyecto de curso de creación de IA.
 
 ## Antecedentes
 
-### Descripción del problema
+## Descripción del problema
 
 En la era digital actual, mejorar el perfil profesional es una prioridad para muchos, y aprender Python se destaca como una de las mejores vías para lograrlo. No obstante, la falta de claridad sobre cuánto esfuerzo (en términos de horas de estudio) es necesario para alcanzar un aumento salarial significativo crea incertidumbre. Este proyecto aborda esta ambigüedad al analizar la relación entre las horas de estudio de Python y el incremento salarial esperado.
 
-### Motivación personal
+## Motivación personal
 
 Motivado por un profundo interés en el impacto de la tecnología en el desarrollo profesional, mi objetivo es explorar cómo los datos pueden guiar decisiones informadas sobre la educación continua. A través de este proyecto, busco demostrar la importancia de basar las decisiones educativas en evidencia concreta.
 
-### Frecuencia y relevancia del problema
+## Frecuencia y relevancia del problema
 
 Este proyecto es de gran relevancia para profesionales que desean perfeccionar sus habilidades y para empleados que buscan definir metas de desarrollo profesional claras basadas en el tiempo invertido en estudios. Al proporcionar una comprensión más precisa de la relación entre el esfuerzo educativo y los beneficios salariales, este estudio puede servir como una herramienta valiosa en la planificación de carreras.
 
@@ -35,7 +36,7 @@ Las variables clave incluirán:
 ![Descripción de la imagen](prediccion_salarial.png.png)
 
 
-### Técnicas de IA
+## Técnicas de IA
 
 Métodos de Inteligencia Artificial: Este proyecto empleará técnicas avanzadas de regresión para predecir los aumentos salariales en función del número de horas dedicadas al estudio de Python. Para este propósito, el modelo de regresión lineal se presenta como una opción adecuada dada su simplicidad y eficacia en problemas de predicción continua. Se ajustará un modelo de regresión lineal a los datos para estimar la relación entre las horas de estudio y el salario. Además, se evaluará la precisión del modelo mediante técnicas de validación cruzada y métricas de error como el RMSE (Root Mean Squared Error) para garantizar la fiabilidad de las predicciones.
 
@@ -57,7 +58,7 @@ Conclusiones y Recomendaciones: Presentación de hallazgos clave y sugerencias p
 
 Este proyecto está diseñado para proporcionar información valiosa a empleados y estudiantes interesados en determinar la cantidad de tiempo que deben dedicar al estudio de Python para lograr un aumento salarial significativo. Es especialmente útil para profesionales de TI, analistas de datos y otros individuos que desean mejorar sus habilidades de programación y avanzar en sus carreras. Al ofrecer una comprensión clara de la relación entre el tiempo de estudio y el incremento salarial, este proyecto puede servir como una guía práctica para aquellos que buscan maximizar el retorno de su inversión en educación continua.
 
-### Casos de uso
+## Casos de uso
 
 Los principales beneficiarios de este proyecto son los profesionales en el campo de la tecnología, incluidos desarrolladores de software, analistas de datos, ingenieros de sistemas y otros especialistas técnicos. Estos usuarios podrán utilizar los resultados del proyecto para medir el impacto de sus horas de estudio de Python en su salario y tomar decisiones informadas sobre su desarrollo profesional. Además, el proyecto puede atraer a estudiantes y recién graduados que buscan orientaciones claras sobre cómo sus esfuerzos educativos pueden traducirse en beneficios económicos tangibles en el mercado laboral.
 
@@ -87,7 +88,7 @@ Uso responsable de los resultados: Los resultados del modelo no deben considerar
 
 ## ¿Qué sigue?
 
-### Mejoras futuras
+## Mejoras futuras
 - Incluir variables adicionales como experiencia laboral, ubicación y nivel educativo.
 - Explorar algoritmos avanzados como redes neuronales para mejorar la precisión.
 - Recolectar datos reales para validar el modelo con información actualizada.
