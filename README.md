@@ -1,6 +1,6 @@
 # Proyecto final-Building AI
 
-Final project for the Building AI course
+Proyecto final del curso  Building AI 
 
 ## Summary
 
